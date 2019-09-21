@@ -1,2 +1,2 @@
 # x-pytests
-Python Testing examples and experiments.
+Python testing examples and experiments.
